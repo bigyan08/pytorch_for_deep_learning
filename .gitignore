@@ -2,4 +2,6 @@
 bootcamp_sessions/data/
 bootcamp_sessions/mnist_data/
 course_lessons/data/
-course_lessons/test/dataset/
+course_lessons/project/dataset/
+course_lessons/project/pytorch-openpose/
+course_lessons/project/lightweight-human-pose-estimation.pytorch/

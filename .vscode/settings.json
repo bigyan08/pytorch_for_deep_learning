@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./course_lessons/project/lightweight-human-pose-estimation.pytorch"
+    ]
+}
