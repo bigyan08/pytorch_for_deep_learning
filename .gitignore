@@ -5,3 +5,4 @@ course_lessons/data/
 course_lessons/project/dataset/
 course_lessons/project/pytorch-openpose/
 course_lessons/project/lightweight-human-pose-estimation.pytorch/
+/.vscode/
